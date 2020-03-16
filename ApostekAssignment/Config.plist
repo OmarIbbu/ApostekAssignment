@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>topRelatedEndPoint</key>
+	<string>movie/top_rated?api_key=f844df643b1485cb6ca5cc9ce562eba1&amp;page=</string>
+	<key>discoverEndPoint</key>
+	<string>discover/movie?api_key=f844df643b1485cb6ca5cc9ce562eba1&amp;with_genres=36&amp;nclude_adult=false&amp;include_video=false&amp;page=</string>
+	<key>popularEndPoint</key>
+	<string>movie/popular?api_key=f844df643b1485cb6ca5cc9ce562eba1&amp;page=</string>
+	<key>baseUrl</key>
+	<string>https://api.themoviedb.org/3/</string>
+	<key>imageBaseUrl</key>
+	<string>https://image.tmdb.org/t/p/w370_and_h556_bestv2/</string>
+	<key>endPoint</key>
+	<string>movie/popular?api_key=f844df643b1485cb6ca5cc9ce562eba1&amp;page=</string>
+</dict>
+</plist>
